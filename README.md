@@ -1,2 +1,2 @@
-# rt
+# Repeticao
 atividades de repetição
